@@ -2,4 +2,4 @@
 
 print("New python file")
 
-# END of the script
+# END
